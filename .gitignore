@@ -1,0 +1,4 @@
+deps*
+config.json
+*.pyc
+*.zip

@@ -1,0 +1,13 @@
+{
+  "servers": {
+    "160sk1": "Kimsufi KS-1 (HDD 500Gb)",
+    "160sk2": "Kimsufi KS-2 (HDD 1Tb)",
+    "160sk21": "Kimsufi KS-2 (SSD 40Gb)",
+    "160sk22": "Kimsufi KS-2 (SSD 80Gb)"
+  },
+  "slack": {
+    "bot_url": "<YOUR SLACK HOOK HERE>",
+    "bot_name": "OVH Servers",
+    "bot_message_tpl": "{server} is available!"
+  }
+}
